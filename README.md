@@ -1,2 +1,2 @@
 # Python web_crawer.
-# web crawler python
+Use crontab to automatically schedule crawler work and send emails
